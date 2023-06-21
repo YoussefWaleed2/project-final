@@ -10,7 +10,7 @@ Designed Using React
 - USED BOOTSWATCH THEME - `LUX`- USED `FONT AWESOME` ICONS
 - USED `REACT PAYPAL BUTTON V2` FOR PAYPAL BUTTONS
 
-Backend of E-commerce website Designed using Django
+Backend of E-commerce website implemented using Django
 
 
 All purposes of written code are written as comments above and below them.
